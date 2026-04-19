@@ -1,46 +1,44 @@
 # Alphabet (alphabet)
-Alphabet is a Fortune 500 company that provides developer APIs and integration capabilities through its developer platform. The Google Cloud API provides programmatic access to Google Cloud Platform services including compute, storage, networking, machine learning, and data analytics. Developers can provision resources, manage infrastructure, and integrate GCP services into their applications.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/alphabet/refs/heads/main/apis.yml)
+Alphabet Inc. is the parent company of Google, offering hundreds of APIs across cloud computing, artificial intelligence, search, maps, advertising, productivity, and developer tools. The Google Cloud Platform provides infrastructure, data analytics, and AI/ML services while Google APIs cover YouTube, Maps, Gmail, Drive, and Ads.
 
-## Scope
-
-- **Type:** Contract
-- **Position:** Consuming
-- **Access:** 3rd-Party
-
-## Tags:
-
- - Cloud, Compute, Storage, Machine Learning
-
-## Timestamps
-
-- **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+**Developer Portal:** [https://developers.google.com/](https://developers.google.com/)
+**Google Cloud:** [https://cloud.google.com/](https://cloud.google.com/)
 
 ## APIs
 
 ### Google Cloud API
-The Google Cloud API provides programmatic access to Google Cloud Platform services including compute, storage, networking, machine learning, and data analytics. Developers can provision resources, manage infrastructure, and integrate GCP services into their applications.
+Cloud computing, storage, networking, and data analytics APIs for GCP infrastructure management.
+- **Documentation:** [https://cloud.google.com/apis/docs/overview](https://cloud.google.com/apis/docs/overview)
+- **OpenAPI:** [openapi/alphabet-google-cloud-api-openapi.yml](openapi/alphabet-google-cloud-api-openapi.yml)
 
-**Human URL:** [https://cloud.google.com/apis/docs/overview](https://cloud.google.com/apis/docs/overview)
+### Google Maps API
+Maps, geocoding, routing, and places APIs for location-aware application development.
+- **Documentation:** [https://developers.google.com/maps](https://developers.google.com/maps)
 
+### Google Ads API
+Programmatic campaign management, keyword bidding, and performance reporting.
+- **Documentation:** [https://developers.google.com/google-ads/api/docs/start](https://developers.google.com/google-ads/api/docs/start)
 
-#### Tags:
+### Google Workspace API
+APIs for Gmail, Drive, Calendar, Docs, Sheets, and Slides enterprise workflow automation.
+- **Documentation:** [https://developers.google.com/workspace](https://developers.google.com/workspace)
 
- - Cloud, Compute, Storage, Machine Learning
+### Google AI API
+Gemini LLM, Vertex AI, Vision AI, Speech-to-Text, and Natural Language APIs for AI application development.
+- **Documentation:** [https://ai.google.dev/](https://ai.google.dev/)
 
-#### Properties
+### YouTube Data API
+Video upload, channel management, playlists, and analytics for media platform integration.
+- **Documentation:** [https://developers.google.com/youtube/v3](https://developers.google.com/youtube/v3)
 
-- [Documentation](https://cloud.google.com/apis/docs/overview)
-- [OpenAPI](openapi/alphabet-google-cloud-api-openapi.yml)
+## Common Resources
 
-## Common Properties
+- **Console:** [https://console.cloud.google.com/](https://console.cloud.google.com/)
+- **GitHub Organization:** [https://github.com/googleapis](https://github.com/googleapis)
+- **Status:** [https://status.cloud.google.com/](https://status.cloud.google.com/)
+- **Support:** [https://cloud.google.com/support/](https://cloud.google.com/support/)
 
-- [Website](https://www.alphabet.com)
+## Maintainer
 
-## Maintainers
-
-**FN:** API Evangelist
-
-**Email:** info@apievangelist.com
+Kin Lane — kin@apievangelist.com

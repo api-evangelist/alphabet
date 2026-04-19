@@ -1,26 +1,228 @@
 aid: alphabet
 url: https://raw.githubusercontent.com/api-evangelist/alphabet/refs/heads/main/apis.yml
-modified: '2026-03-21'
+name: Alphabet
+tags:
+  - Cloud
+  - AI
+  - Search
+  - Maps
+  - Advertising
+  - Productivity
+  - Machine Learning
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+description: >-
+  Alphabet Inc. is the parent company of Google, offering hundreds of APIs across
+  cloud computing, artificial intelligence, search, maps, advertising, productivity,
+  and developer tools. The Google Cloud Platform provides infrastructure, data analytics,
+  and AI/ML services while Google APIs cover YouTube, Maps, Gmail, Drive, and Ads.
+created: '2024-01-01'
+modified: '2026-04-19'
+specificationVersion: '0.19'
 apis:
   - aid: alphabet:google-cloud-api
     name: Google Cloud API
-    tags:
-      - Cloud
-      - Compute
-      - Machine Learning
-      - Storage
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-    baseURL: https://cloud.google.com/apis
-    humanURL: https://cloud.google.com/apis/docs/overview
-    properties:
-      - url: https://cloud.google.com/apis/docs/overview
-        type: Documentation
-      - url: openapi/alphabet-google-cloud-api-openapi.yml
-        type: OpenAPI
     description: >-
       The Google Cloud API provides programmatic access to Google Cloud Platform services
       including compute, storage, networking, machine learning, and data analytics.
       Developers can provision resources, manage infrastructure, and integrate GCP
       services into their applications.
-description: >-
-  Access Google Cloud products from your code in your favorite languages.
+    humanURL: https://cloud.google.com/apis/docs/overview
+    baseURL: https://cloud.google.com
+    tags:
+      - Cloud
+      - Compute
+      - Machine Learning
+      - Storage
+    properties:
+      - url: https://cloud.google.com/apis/docs/overview
+        type: Documentation
+      - url: https://cloud.google.com/
+        type: Portal
+      - url: openapi/alphabet-google-cloud-api-openapi.yml
+        type: OpenAPI
+
+  - aid: alphabet:google-maps-api
+    name: Google Maps API
+    description: >-
+      The Google Maps Platform provides APIs for embedding maps, geocoding addresses,
+      routing directions, places search, and geospatial data analysis in web and
+      mobile applications.
+    humanURL: https://developers.google.com/maps
+    baseURL: https://maps.googleapis.com
+    tags:
+      - Maps
+      - Geolocation
+      - Routing
+      - Places
+    properties:
+      - url: https://developers.google.com/maps
+        type: Documentation
+
+  - aid: alphabet:google-ads-api
+    name: Google Ads API
+    description: >-
+      The Google Ads API enables developers to manage Google Ads campaigns, ad groups,
+      keywords, bidding strategies, and reporting programmatically for large-scale
+      advertising automation and optimization.
+    humanURL: https://developers.google.com/google-ads/api/docs/start
+    baseURL: https://googleads.googleapis.com
+    tags:
+      - Advertising
+      - Marketing
+      - Campaign Management
+    properties:
+      - url: https://developers.google.com/google-ads/api/docs/start
+        type: Documentation
+
+  - aid: alphabet:google-workspace-api
+    name: Google Workspace API
+    description: >-
+      Google Workspace APIs provide programmatic access to Gmail, Drive, Calendar,
+      Docs, Sheets, Slides, and other productivity applications for workflow automation
+      and enterprise application integration.
+    humanURL: https://developers.google.com/workspace
+    baseURL: https://www.googleapis.com
+    tags:
+      - Productivity
+      - Email
+      - Documents
+      - Calendar
+    properties:
+      - url: https://developers.google.com/workspace
+        type: Documentation
+
+  - aid: alphabet:google-ai-api
+    name: Google AI API
+    description: >-
+      Google AI APIs provide access to Gemini large language models, Vertex AI
+      machine learning platform, Vision AI, Speech-to-Text, Natural Language, and
+      other AI/ML services for building intelligent applications.
+    humanURL: https://ai.google.dev/
+    baseURL: https://generativelanguage.googleapis.com
+    tags:
+      - AI
+      - Machine Learning
+      - Gemini
+      - Natural Language Processing
+    properties:
+      - url: https://ai.google.dev/
+        type: Documentation
+      - url: https://ai.google.dev/gemini-api/docs
+        type: GettingStarted
+
+  - aid: alphabet:youtube-data-api
+    name: YouTube Data API
+    description: >-
+      The YouTube Data API allows applications to retrieve and upload YouTube content
+      including videos, playlists, channels, comments, and subscriptions for media
+      platform integration and content management.
+    humanURL: https://developers.google.com/youtube/v3
+    baseURL: https://www.googleapis.com/youtube/v3
+    tags:
+      - Video
+      - Media
+      - YouTube
+      - Streaming
+    properties:
+      - url: https://developers.google.com/youtube/v3
+        type: Documentation
+
+common:
+  - url: https://www.google.com/
+    type: Website
+  - url: https://developers.google.com/
+    type: Portal
+  - url: https://cloud.google.com/
+    type: Documentation
+  - url: https://console.cloud.google.com/
+    type: Console
+  - url: https://developers.google.com/terms/
+    type: TermsOfService
+  - url: https://policies.google.com/privacy
+    type: PrivacyPolicy
+  - url: https://cloud.google.com/blog/
+    type: Blog
+  - url: https://status.cloud.google.com/
+    type: StatusPage
+  - url: https://cloud.google.com/support/
+    type: Support
+  - url: https://github.com/googleapis
+    type: GitHubOrganization
+  - url: https://stackoverflow.com/questions/tagged/google-cloud-platform
+    type: StackOverflow
+  - url: https://www.youtube.com/@googlecloud
+    type: YouTube
+  - type: Features
+    data:
+      - name: Google Cloud Platform
+        description: >-
+          Full-stack cloud computing services including Compute Engine, GKE,
+          Cloud Run, Cloud Storage, BigQuery, and 200+ other services.
+      - name: Gemini AI
+        description: >-
+          Access to Gemini large language models via the Gemini API for text
+          generation, code generation, multimodal AI, and function calling.
+      - name: Vertex AI
+        description: >-
+          Managed machine learning platform for training, deploying, and managing
+          ML models at scale with AutoML, custom training, and pre-built models.
+      - name: Google Maps Platform
+        description: >-
+          Maps, routing, places, and geospatial APIs for building location-aware
+          applications with real-world geographic data.
+      - name: Google Workspace APIs
+        description: >-
+          APIs for Gmail, Drive, Calendar, Docs, Sheets, and Slides enabling
+          enterprise workflow automation and productivity integrations.
+      - name: Google Ads API
+        description: >-
+          Programmatic campaign management, keyword bidding, performance reporting,
+          and audience targeting for large-scale advertising automation.
+      - name: YouTube Data API
+        description: >-
+          Video upload, channel management, playlist operations, and analytics
+          for YouTube content management systems and media platforms.
+      - name: Firebase
+        description: >-
+          Mobile and web application backend services including Realtime Database,
+          Firestore, Authentication, Cloud Functions, and Hosting.
+  - type: UseCases
+    data:
+      - name: AI Application Development
+        description: >-
+          Build generative AI applications using Gemini API for chat, content
+          generation, code assistance, and multimodal workflows.
+      - name: Cloud Infrastructure Automation
+        description: >-
+          Automate GCP infrastructure provisioning, scaling, and management using
+          Cloud Resource Manager, Compute, and Container APIs.
+      - name: Enterprise Productivity Integration
+        description: >-
+          Integrate Google Workspace into enterprise workflows for document
+          automation, calendar scheduling, and email processing.
+      - name: Digital Advertising Automation
+        description: >-
+          Build advertising technology platforms using Google Ads API for
+          campaign management, bid optimization, and performance reporting.
+  - type: Integrations
+    data:
+      - name: Terraform
+        description: >-
+          Infrastructure as Code support via the Google Cloud Terraform provider
+          for declarative GCP resource management.
+      - name: Kubernetes
+        description: >-
+          Google Kubernetes Engine (GKE) provides managed Kubernetes with deep
+          GCP service integration for containerized workloads.
+      - name: Apache Beam
+        description: >-
+          Unified stream and batch data processing via Cloud Dataflow built on
+          the Apache Beam programming model.
+      - name: LangChain
+        description: >-
+          LangChain integration with Vertex AI and Gemini for building LLM
+          application chains and AI agent workflows.
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
