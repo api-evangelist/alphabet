@@ -1,0 +1,14 @@
+{
+  "repo": "alphabet",
+  "feeds": [
+    {
+      "source": "https://blog.google/rss/",
+      "feed_url": "https://blog.google/rss/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
+  "fetched": "2026-08-15T12:22:01Z",
+  "post_count": 121
+}
