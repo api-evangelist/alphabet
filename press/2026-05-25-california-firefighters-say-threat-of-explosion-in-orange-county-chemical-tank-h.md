@@ -2,7 +2,9 @@
 title: California firefighters say threat of explosion in Orange County chemical tank
   has been "eliminated" - CBS News
 url: https://news.google.com/rss/articles/CBMipAFBVV95cUxOWVlHZlJSajRrLURZSF90US1CXzhTVlFYVjctcjhEdHQxcU9Ob2xUcXRUWjBQSWpSbEdKdTBFVVhDUmlOcWREdFJXQ0RRZmNIdVVvNnd4VXg5SjBqVl9CTVB2TEl5QjV1bWhfLUJQZHFQUFdSVzV2UF9PbGZMTlZBVEFRaGxlWWtrR3ptT2xhYVZ0X2k3YnRPbENMdXhfaG9KMzI5Tw?oc=5
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: ''
 feed_url: http://www.google.com/news/rss
 ---

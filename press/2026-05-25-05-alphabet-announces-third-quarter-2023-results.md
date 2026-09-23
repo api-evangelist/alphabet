@@ -1,7 +1,9 @@
 ---
 title: Alphabet Announces Third Quarter 2023 Results
 url: https://www.sec.gov/Archives/edgar/data/1652044/000165204423000088/googexhibit991q32023.htm
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Alphabet" press release artificial intelligence'
 position: 5
 source: serpapi-google

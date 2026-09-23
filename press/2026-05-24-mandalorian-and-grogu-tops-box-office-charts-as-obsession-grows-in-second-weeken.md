@@ -2,7 +2,9 @@
 title: ‘Mandalorian and Grogu’ tops box office charts as ‘Obsession’ grows in second
   weekend - NBC News
 url: https://news.google.com/rss/articles/CBMiugFBVV95cUxQdUxOMmRZeTJFMTFNMEM1YTdDXzhxUUJOODlXNERVSHM0a3RvbzNsbkwwN09TLTNLVk9vQld0ejhwUWVWOHlwVmVDVWptakV3aVdQUFNPZEUzek5ETkpFNy1vb0d0cWpqTkxZRzlXUnctTGVCOGlBT3pYRzFzR1UzN2NHWVBtNzcxSlVEU3p5a2lwZHFncXEzVUV3ZVlJUnBkcExVMGJRamFiRnFDVE9GVzBEbnNYa3daMmc?oc=5
-date: '2026-05-24'
+published: ''
+date_basis: harvested
+harvested: '2026-05-24'
 author: ''
 feed_url: http://www.google.com/news/rss
 ---

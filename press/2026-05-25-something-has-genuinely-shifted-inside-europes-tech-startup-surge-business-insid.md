@@ -2,7 +2,9 @@
 title: '''Something has genuinely shifted'': Inside Europe''s tech startup surge -
   Business Insider'
 url: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRHUxMVppTUgyWUVmN1JWeE13b29TSWV6NnFMd3FobGtabHk1WUNEc3pNcmwtNGtmNk1yWm1CTjFTX2hqYjI0bGZFV0JMMk81SzRvQjlOa05hSzVJeUZXbmNtUUlYYUZyQm1ab3BROFlES243d2xBRWpwekR6S1YtclJRVGdkd00wd1VMOU82cjc3ZHBMSU1QeU9mYlcxcjhuMEN6ZEtJVWI?oc=5
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: ''
 feed_url: http://www.google.com/news/rss
 ---

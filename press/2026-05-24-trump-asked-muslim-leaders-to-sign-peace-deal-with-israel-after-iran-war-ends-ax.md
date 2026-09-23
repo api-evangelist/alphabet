@@ -2,7 +2,9 @@
 title: Trump asked Muslim leaders to sign peace deal with Israel after Iran war ends
   - Axios
 url: https://news.google.com/rss/articles/CBMikAFBVV95cUxOcUUzSnpHMG1BRFZKZVZyb05kc2tJQ3ZBdWRfV0FkOGJqNjBpOEdoZFN3bVNHc0tlR0YzbEo2a0MzYjlOWHRUNUhpSFJwVkJSZWFTRDZGOXo3Q3J0Vi1SR2hxWUtXa3ZIU3BVb01LcWlnZWYwUjJZUTV4OVVCOXhWV2NDUHg1QU9KdFR5VENwMmM?oc=5
-date: '2026-05-24'
+published: ''
+date_basis: harvested
+harvested: '2026-05-24'
 author: ''
 feed_url: http://www.google.com/news/rss
 ---

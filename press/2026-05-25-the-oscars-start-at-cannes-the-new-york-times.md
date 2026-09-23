@@ -1,7 +1,9 @@
 ---
 title: The Oscars Start at Cannes - The New York Times
 url: https://news.google.com/rss/articles/CBMigwFBVV95cUxOM3hkamxBaDJtb3IzeV85NzhqMzM2MEx4VGRqY3dTSldyR2p6RFA1Njd3bWV6aUNDaDgxZ0Z4Z1A2NmpyZ0xZM2tBZlRRbjRfUXRablFTSzJMVFpIMzE2Rk1Ya3JpdEZLU0hkcjFsLVM5VXg4SDZRa08waFBhY0VsY1VkRQ?oc=5
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: ''
 feed_url: http://www.google.com/news/rss
 ---

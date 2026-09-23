@@ -2,7 +2,9 @@
 title: For a group of Vietnam vets, opposing Trump's arch is about being "loyal to
   the country" - CBS News
 url: https://news.google.com/rss/articles/CBMic0FVX3lxTFB2SV9iYjJPODJrd0QxanpuVjFtUlFOOFliR1FYR2gtZThOV1REU2QtNjFjQ2Q4UlFyODdaM25vOThMclhudmJCajhpMWxLOWRlX1Y3SWM3V1p3T0lYVmpXSkRNTW80YmNJbG5IRVVzWFpxNmfSAXhBVV95cUxPbjBpcnIzUjAyVlhQWG4tQ3FxaUZqbkNBeHAzTmVXV3JuQzdVWmFBeVRnQ3BFUHR0VDYzQklWNFVuc1RSRjZPZ1lRYkpBTE90Umh4d2dFZUtncTFFQzBqTE56a2otaDhUZ25YeWJSZ3VMUHZjaW9DZFQ?oc=5
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: ''
 feed_url: http://www.google.com/news/rss
 ---

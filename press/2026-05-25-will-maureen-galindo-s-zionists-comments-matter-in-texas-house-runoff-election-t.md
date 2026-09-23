@@ -2,7 +2,9 @@
 title: Will Maureen Galindo’s ‘Zionists’ Comments Matter in Texas House Runoff Election?
   - The New York Times
 url: https://news.google.com/rss/articles/CBMijAFBVV95cUxObG1CQ0N0TlFZXzNxMkZnWlhoTmZ6ZWk3eFItVWlMLVBvTDlDNFVVM0pjUW50Ukk0THU5ZWNRbGhEVzMwUHJxR09mTF84S29BNVJFdC1KcWEwYlZEQWtnY2J2RWI1QlVQcXAxZWl0dWFCcG8tN1RhNWgwdXZpaERPeWpwMTZTMlE3SUtZMQ?oc=5
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: ''
 feed_url: http://www.google.com/news/rss
 ---

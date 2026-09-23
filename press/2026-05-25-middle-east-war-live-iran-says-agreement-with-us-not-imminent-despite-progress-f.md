@@ -2,7 +2,9 @@
 title: 'Middle East war live: Iran says agreement with US ‘not imminent’ despite progress
   - France 24'
 url: https://news.google.com/rss/articles/CBMisgFBVV95cUxOTHFZQ2tnVlFjbFhfVWZReldyN1F5LVZFSzlTeGFCSldTWGZXYTM2RVZoS3ZOYktGdHVzQmw1ay1jWFo1TkdWLUNjMHFDVmh1NU1lRG05UjJJQUc1U01zZl84MW1feEQwaGszQ0w4cnFKQVV4eU8tV1M1TVdBMnktTThpZXk4djhRZ00xNkRnZ3ZSX1FkQmFyamJzUlV1NUtMajZEYmRKNVk0eC04RFFmYkZR?oc=5
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: ''
 feed_url: http://www.google.com/news/rss
 ---

@@ -2,7 +2,9 @@
 title: Toshifumi Suzuki, Japan’s ‘God’ of Convenience Stores Dies at 93 - The New
   York Times
 url: https://news.google.com/rss/articles/CBMiekFVX3lxTE5YT3dZR1RBUG1nSEx4cWw1V2t2eHIzVWhVbkhHbk5PNWpTU2tNcVZKR29qSzhacHR2UGpnY1RuNUIxa0ZmVzRIRlNwVGlzUmRaMlFsekIyRC15X25POGh4RXFFT1R5aTAzMG1pQVcxQnpQZEJVQUhwVVpn?oc=5
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: ''
 feed_url: http://www.google.com/news/rss
 ---

@@ -1,7 +1,9 @@
 ---
 title: The 10 Best Movies at Cannes 2026 - Rolling Stone
 url: https://news.google.com/rss/articles/CBMikwFBVV95cUxPZnF1dEZ2bVlyX0NaWmFacU5JSndVejhBX1FRY2RNbmE2RzdwOG5zc3dFdVk2VUF0ZUFvcUx6cElnbUJMTFM5NmFoMW9BbXdDZ0Q0YklNV251YzNyaFd5aFV2UTk4NWs0TlQ4enBpWkRKNlFmWTNfRGtSR1ZnbzVrV0o5R085QVYxdzVPVWd3SWZCb2s?oc=5
-date: '2026-05-24'
+published: ''
+date_basis: harvested
+harvested: '2026-05-24'
 author: ''
 feed_url: http://www.google.com/news/rss
 ---

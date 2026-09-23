@@ -2,7 +2,9 @@
 title: Trump blasts critics as UK readies Hormuz mine-clearing mission amid Iran deal
   talks - Fox News
 url: https://news.google.com/rss/articles/CBMipwFBVV95cUxPazJHem9UNWZGN3o2Q3lKS2dfWTV0WWNGenVLTWdiZWNrV3JySXFVMUhrNHByeURLdkN2alZ1Qnl3SGZwLTFJUFl3eTREeU9ldk5qMUtxUmR2bXR6REJrLWhjZ0ZQZHlkbWxNN3RTYWxmTXVsRWwxdlk1ZzVDb18xSXJKRmxBbXhGV251QjZZdVZjQTU0eXVqYVFJSE9iV0pQdFJ2M3BKZ9IBrAFBVV95cUxOYzJ1b0VtVnh6QzZvS0FnU0pDaU5uV0JQbkxPazJJYXFENUlmbW5kOGV3QzAxN3hNX3oxRVF1b0pYbE51OElBOHVyR1BDMnVhQTRZM2d3eFdWMFJBN1YyQVcya3VaOVFXbFpGZWNUdDVmbWdZT0IteUVzY2FIemhzODZHcEg4UWFVREZjYVVlaTg5TEJneFdNZ3VTX2Fza1ZibkdJMENfYWxFQUY2?oc=5
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: ''
 feed_url: http://www.google.com/news/rss
 ---

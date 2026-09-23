@@ -2,7 +2,9 @@
 title: Where Trump’s $1.8 billion payout fund gets its money and how it could work
   - The Washington Post
 url: https://news.google.com/rss/articles/CBMizwFBVV95cUxOWl9aR1ZGYVgzNDhSSlNLbmlKVEtiaTZGT3VmYVFKVGxOREpXRGNKUEEtaEJtaUpUSWpyQUtMaGJMRVdscDZzaEM3VDNnVGJsZE9Zcnk3bVJySFYzeXhOTVRWRGFBaGZBSE55Z0xudU5weloyZTBZUG11Y3VHS29CSDR1N1lZLW56cWZyTG1zMnQ1RGNXZ3RSYTZzVVQzellQMEo3NUdFRGlaZExUc210Q012NFExR3FjX3E0aVdGM0t5a1ExU3JCaHVLTVdiZUU?oc=5
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: ''
 feed_url: http://www.google.com/news/rss
 ---

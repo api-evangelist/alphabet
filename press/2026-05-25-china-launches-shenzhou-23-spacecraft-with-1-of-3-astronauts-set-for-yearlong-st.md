@@ -2,7 +2,9 @@
 title: China launches Shenzhou 23 spacecraft with 1 of 3 astronauts set for yearlong
   stay - NPR
 url: https://news.google.com/rss/articles/CBMihwFBVV95cUxOenhTUEJZNVFZOUctd3ZfWGZqZDVjbDUxT2h0SWhUZTFudEtTYU1raktRODdLR0xRNUtHMDREZVZXak1ydEk5ZGZaaVFWc2F2TEFXeFBlMnB6X25tUVpTZ2g3dlN3TGhybm1YZ0hzUFZFdVZRMHRNeVJrUVBGelJWelBCVV90TGc?oc=5
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: ''
 feed_url: http://www.google.com/news/rss
 ---
